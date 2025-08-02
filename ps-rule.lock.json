@@ -1,0 +1,9 @@
+﻿{
+  "version": 1,
+  "modules": {
+    "PSRule.Rules.Azure": {
+      "version": "1.45.0",
+      "integrity": "sha512-alUfm7rvXJCYVZ1I9mWkpGjmbGN330e/uEqQygW0ODboRpPhmp4sUCeRBqUAumUNKqqD/3Fea+RK6bbk18FR6w=="
+    }
+  }
+}
