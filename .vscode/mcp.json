@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"PSRule for Azure": {
+			"type": "stdio",
+			"command": "ps-rule-azure",
+			"args": [
+				"mcp"
+			]
+		}
+	},
+	"inputs": []
+}
